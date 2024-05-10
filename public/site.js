@@ -10,6 +10,7 @@
 		return todos
 	}
 
+
 	const toggleTodo = async (id, complete) => {
 		const response = await fetch(`/api/todos/${id}`, {
 			method: 'PUT',
