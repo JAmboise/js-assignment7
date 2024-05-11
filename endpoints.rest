@@ -19,6 +19,6 @@ Content-Type: application/json
 
 ### Toggle completed status of a todo
 
-PUT {{url}}/todos
+PUT {{url}}/api/todos/663e70b9cc900c9b799f47ea
 
 
